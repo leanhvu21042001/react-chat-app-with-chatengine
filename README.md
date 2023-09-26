@@ -24,3 +24,12 @@ npm install
 ```sh
 npm start
 ```
+
+## Test Chat App
+
+- Account 1:
+  - username: lavdev
+  - password: 123
+- Account 2:
+  - username: raymond
+  - password: 123
